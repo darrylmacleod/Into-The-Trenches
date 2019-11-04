@@ -11,3 +11,16 @@ https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
 Azure Security Center
 
 https://azure.microsoft.com/en-ca/services/security-center/
+
+Dependencies
+
+- Node Security Project (NSP)
+https://docs.codeclimate.com/docs/nodesecurity
+
+- RetireJS
+https://retirejs.github.io/retire.js/
+
+- OWASP Dependency Check
+https://www.owasp.org/index.php/OWASP_Dependency_Check
+
+
