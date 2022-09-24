@@ -12,6 +12,10 @@ Azure Security Center
 
 https://azure.microsoft.com/en-ca/services/security-center/
 
+Google Security Command Center
+
+https://cloud.google.com/security-command-center
+
 Dependencies
 
 - Node Security Project (NSP)
